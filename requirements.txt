@@ -8,6 +8,9 @@ azure-storage
 python-dotenv
 gensim
 keras
-#tensorflow !!ISSUE: tensorflow does not work with python version >3.6
 nltk
 joblib
+dash
+dash-html-components
+dash-core-components
+dash-table
